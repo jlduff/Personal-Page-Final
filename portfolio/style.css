@@ -1,0 +1,107 @@
+header > h1 {
+    font-family: Lucida;
+    font-size: 100px; 
+    font-weight: lighter; 
+    line-height: 0.5;  
+    color: rgb(189, 189, 4);
+}
+
+header {
+    background-color: rgb(20, 20, 20);
+}
+
+blockquote {
+    font-family: Verdana;
+    font-size: 30px; 
+    font-weight: lighter; 
+    line-height: 1.5; 
+    color: rgb(233, 233, 233)
+}
+
+.container { 
+    width: 100%; 
+    height: auto; 
+    border: 10px solid; 
+    border-color: rgb(189, 189, 4); 
+    border-width: 10px; 
+    background-color: rgb(36, 36, 36); 
+}
+
+h2 { 
+    font-family: Lucida; 
+    font-size: 35px; 
+    font-weight: lighter; 
+    line-height: 2; 
+    padding: 2pc; 
+    color: rgb(241, 241, 68)
+}
+
+div li { 
+    flex: auto; 
+    font-family: Verdana; 
+    font-size: 20px;
+    font-weight: lighter; 
+    line-height: 2; 
+    color: white; 
+}
+
+h3 { 
+    font-family: Lucida; 
+    font-size: 35px; 
+    font-weight: lighter; 
+    line-height: 2; 
+    color: rgb(241, 241, 68)
+}
+
+h4 { 
+    font-family: Lucida; 
+    font-size: 35px; 
+    font-weight: lighter; 
+    line-height: 2; 
+    color: rgb(241, 241, 68); 
+}
+
+p { 
+    font-family: Verdana; 
+    font-size: 20px; 
+    font-weight: lighter;
+    line-height: 2; 
+    margin: 0 0 1 0; 
+    color: white; 
+}
+
+h5 { 
+    font-family: Lucida; 
+    font-size: 35px; 
+    font-weight: lighter; 
+    line-height: 1; 
+    text-align: center; 
+    color: rgb(241, 241, 68); 
+}
+
+.caption { 
+    font-family: Verdana; 
+    font-size: 20px;
+    font-weight: lighter; 
+    line-height: 2; 
+    text-align: center; 
+    color: white; 
+}
+
+h6 { 
+    font-family: Lucida; 
+    font-size: 35px; 
+    font-weight: lighter; 
+    line-height: 2; 
+    text-align: start;
+    color: rgb(241, 241, 68); 
+}
+
+.footer {
+    font-family: Verdana; 
+    font-size: 40px; 
+    font-weight: lighter; 
+    line-height: 2;
+    text-align: center; 
+    color: white; 
+}
